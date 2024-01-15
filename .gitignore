@@ -1,0 +1,3 @@
+# file ini untuk mendefinisikan nama folder/file yang tidak diupload kegithub
+node_modules/
+dist/
